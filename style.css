@@ -1,5 +1,5 @@
 body {
-    background-image: url('https://img.freepik.com/premium-vector/abstract-polygonal-tirangle-pattern-background_536326-161.jpg');
+    background-image: url('https://www.tapeciarnia.pl/tapety/normalne/80621_niebieskie_tlo_swiatlo.jpg');
     font-family: sans-serif;
     padding: 10px;
   }
@@ -72,7 +72,7 @@ h6 {
   
   hr {
     height: 5px;
-    background-color: rgb(4, 100, 60);
+    background-color: rgb(19, 85, 165);
     border: none;
   }
   
@@ -85,7 +85,7 @@ h6 {
   }
   
   .address {
-    margin-bottom: 5px; color: rgb(4, 82, 4);
+    margin-bottom: 5px; color: rgb(19, 85, 165);
   }
   
   a {
